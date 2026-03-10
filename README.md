@@ -108,12 +108,4 @@ Tras analizar las 4 tiendas en todas las métricas disponibles, la recomendació
 
 Vender la Tienda 4 le permitirá al Sr. Juan obtener capital para su nuevo emprendimiento conservando las tiendas más rentables.
 
----
 
-## 👤 Autor
-
-Desarrollado como parte del **Challenge 1 — Data Science Alura Latam**
-
----
-
-*📅 2025 — AluraStore Latam Challenge*
